@@ -3,9 +3,8 @@
 
 ## 🎬 Real-world experiments video
 
-<div align="center">
-  <a href="https://www.bilibili.com/video/BV1c8AkzyEjp">
-    <img src="./assets/video_cover.png" width="600"/>
-  </a>
-  <p>▶️ 点击播放演示视频</p>
-</div>
+<p align="center">
+  <video src="./assets/demo.mp4" width="800" controls>
+    Your browser does not support the video tag.
+  </video>
+</p>
