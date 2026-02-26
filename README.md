@@ -1,5 +1,5 @@
 # Safe Integrated Control of Drill Boom in Hole-seeking Task via Reinforcement Learning
-
+Submiited to Underground Space.
 
 ## Real-world experiments video
 
